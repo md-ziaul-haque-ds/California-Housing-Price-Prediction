@@ -152,3 +152,5 @@ This project demonstrates practical experience in:
 **Md Ziaul Haque**
 
 Data Analyst | Python | SQL | Power BI | Tableau | Machine Learning
+
+LinkedIn: www.linkedin.com/in/mdziaulhaque-datascience
